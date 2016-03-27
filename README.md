@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # simple_spring_web_service
 
 
@@ -11,6 +10,4 @@ http://simplespringwebservice-asoyanke.rhcloud.com/requestlistener
 GEt Logger URL
 
 http://simplespringwebservice-asoyanke.rhcloud.com/readlogger
-=======
-# simple_spring_web_service
->>>>>>> 140ea94638138fee63a888bf95b8082e0bbc56e6
+
